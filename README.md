@@ -1,4 +1,5 @@
 # guia-tmux
+![tmux logo](/img/tmux-logo-medium.png)
 ## _Una guía visual de los comandos de tmux_
 
 ## Atajos de teclado predeterminados en tmux
