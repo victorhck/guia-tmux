@@ -5,8 +5,10 @@
 ## Atajos de teclado predeterminados en tmux
 
 [tmux](https://github.com/tmux/tmux/wiki) puede ser controlado desde un cliente asociado usando una combinación de teclas de unas teclas ya predeterminadas.
-Para ejecutar los comandos de tmux, pulsa `C-b` (Ctrl-b) de manera predeterminada, seguido de algunos de estos comandos.
-Ya que algunas personas prefieren cambiar esa combinación predeterminada por otra (por ejemplo `C-a` que es más cómoda) me referiré de manera genérica a esa combinación como <Prefix>.
+
+Para ejecutar los comandos de tmux, pulsa `C-b` (la tecla `Control` y la letra `b`) de manera predeterminada, seguido de algunos de estos comandos.
+
+_Ya que algunas personas prefieren cambiar esa combinación predeterminada por otra (por ejemplo `C-a` que es más cómoda) me referiré de manera genérica a esa combinación como <Prefix>._
 
 ## Los atajos de teclado predeterminados son:
 
