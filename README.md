@@ -20,6 +20,7 @@ _Ya que algunas personas prefieren cambiar esa combinación predeterminada por o
 * `x`           Cierra el panel actual.
 ![](/img/3.gif)
 * `o`           Selecciona el panel siguiente en la ventana actual.
+![](/img/4.gif)
 * `Up, Down, Left, Right`    Cambia el foco al panel superior, inferior, de la izquierda o derecha
 * `C-Up, C-Down, C-Left, C-Right`  Redimensiona el panel actual en pasos de una celda.
 * `M-Up, M-Down, M-Left, M-Right`  Redimensiona el panel actual en pasos de cinco celdas.
