@@ -27,7 +27,8 @@ _Ya que algunas personas prefieren cambiar esa combinación predeterminada por o
 ![](/img/6.gif)
 * `M-Up, M-Down, M-Left, M-Right`  Redimensiona el panel actual en pasos de cinco celdas.
 ![](/img/7.gif)
-* `;`           Se mueve al panel activo previo.
+* `;`           Se mueve al panel activo previo. Para alternar entre dos paneles.
+![](/img/8.gif)
 * `{`           Intercambia el panel actual con el panel previo.
 * `}`           Intercambia el panel actual con el panel siguiente.
 * `M-o`         Rota los paneles en en la ventana actual hacia adelante.
