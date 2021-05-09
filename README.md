@@ -16,6 +16,7 @@ _Ya que algunas personas prefieren cambiar esa combinación predeterminada por o
 * `"`           Divide el panel actual en dos, uno superior y otro inferior.
 ![](/img/1.gif)
 * `%`           Divide el panel actual en dos, uno a izquierda y otro a derecha.
+![](/img/2.gif)
 * `x`           Cierra el panel actual.
 * `o`           Selecciona el panel siguiente en la ventana actual.
 * `Up, Down, Left, Right`    Cambia el foco al panel superior, inferior, de la izquierda o derecha
