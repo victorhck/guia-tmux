@@ -33,6 +33,7 @@ _Ya que algunas personas prefieren cambiar esa combinación predeterminada por o
 * `}`           Intercambia el panel actual con el panel siguiente.
 ![](/img/9.gif)
 * `M-o`         Rota los paneles en en la ventana actual hacia adelante.
+![](/img/10.gif)
 * `z`           Cambia el estado del zoom del panel actual.
 * `q`           Muestra el número de índice brevemente en los paneles.
 * `m`           Marca el panel actual (ver select-pane -m).
