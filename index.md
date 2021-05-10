@@ -15,7 +15,7 @@ _Ya que algunas personas prefieren cambiar esa combinación predeterminada por o
 ### Paneles
 * `"`           Divide el panel actual en dos, uno superior y otro inferior.
 ![](/img/1.gif)
-<a href="/img/1.gif"><img src="/img/1.gif"></a>
+<a href="https://victorhck.github.io/guia-tmux/img/1.gif"><img src="https://victorhck.github.io/guia-tmux/img/1.gif"></a>
 * `%`           Divide el panel actual en dos, uno a izquierda y otro a derecha.
 ![](/img/2.gif)
 * `x`           Cierra el panel actual.
