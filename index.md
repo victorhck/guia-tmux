@@ -8,40 +8,41 @@
 
 Para ejecutar los comandos de tmux, pulsa `C-b` (la tecla `Control` y la letra `b`) de manera predeterminada, seguido de algunos de estos comandos.
 
-_Ya que algunas personas prefieren cambiar esa combinación predeterminada por otra (por ejemplo `C-a` que es más cómoda) me referiré de manera genérica a esa combinación como <Prefix>._
+_Ya que algunas personas prefieren cambiar esa combinación predeterminada por otra (por ejemplo `C-a` que es más cómoda) me referiré de manera genérica a esa combinación como `<Prefix>`._
+
+_Pincha sobre la imagen para ampliar_
 
 ## Los atajos de teclado predeterminados son:
 
 ### Paneles
 * `"`           Divide el panel actual en dos, uno superior y otro inferior.
-![](/img/1.gif)
 <a href="https://victorhck.github.io/guia-tmux/img/1.gif"><img src="https://victorhck.github.io/guia-tmux/img/1.gif"></a>
 * `%`           Divide el panel actual en dos, uno a izquierda y otro a derecha.
-![](/img/2.gif)
+<a href="https://victorhck.github.io/guia-tmux/img/2.gif"><img src="https://victorhck.github.io/guia-tmux/img/2.gif"></a>
 * `x`           Cierra el panel actual.
-![](/img/3.gif)
+<a href="https://victorhck.github.io/guia-tmux/img/3.gif"><img src="https://victorhck.github.io/guia-tmux/img/3.gif"></a>
 * `o`           Selecciona el panel siguiente en la ventana actual.
-![](/img/4.gif)
+<a href="https://victorhck.github.io/guia-tmux/img/4.gif"><img src="https://victorhck.github.io/guia-tmux/img/4.gif"></a>
 * `Up, Down, Left, Right`    Cambia el foco al panel superior, inferior, de la izquierda o derecha
-![](/img/5.gif)
+<a href="https://victorhck.github.io/guia-tmux/img/5.gif"><img src="https://victorhck.github.io/guia-tmux/img/5.gif"></a>
 * `C-Up, C-Down, C-Left, C-Right`  Redimensiona el panel actual en pasos de una celda.
-![](/img/6.gif)
+<a href="https://victorhck.github.io/guia-tmux/img/6.gif"><img src="https://victorhck.github.io/guia-tmux/img/6.gif"></a>
 * `M-Up, M-Down, M-Left, M-Right`  Redimensiona el panel actual en pasos de cinco celdas.
-![](/img/7.gif)
+<a href="https://victorhck.github.io/guia-tmux/img/7.gif"><img src="https://victorhck.github.io/guia-tmux/img/7.gif"></a>
 * `;`           Se mueve al panel activo previo. Para alternar entre dos paneles.
-![](/img/8.gif)
+<a href="https://victorhck.github.io/guia-tmux/img/8.gif"><img src="https://victorhck.github.io/guia-tmux/img/8.gif"></a>
 * `{`           Intercambia el panel actual con el panel previo.
 * `}`           Intercambia el panel actual con el panel siguiente.
-![](/img/9.gif)
+<a href="https://victorhck.github.io/guia-tmux/img/9.gif"><img src="https://victorhck.github.io/guia-tmux/img/9.gif"></a>
 * `M-o`         Rota los paneles en en la ventana actual hacia adelante.
-![](/img/10.gif)
+<a href="https://victorhck.github.io/guia-tmux/img/10.gif"><img src="https://victorhck.github.io/guia-tmux/img/10.gif"></a>
 * `z`           Cambia el estado del zoom del panel actual.
-![](/img/11.gif)
+<a href="https://victorhck.github.io/guia-tmux/img/11.gif"><img src="https://victorhck.github.io/guia-tmux/img/11.gif"></a>
 * `q`           Muestra el número de índice brevemente en los paneles.
-![](/img/12.gif)
+<a href="https://victorhck.github.io/guia-tmux/img/12.gif"><img src="https://victorhck.github.io/guia-tmux/img/12.gif"></a>
 * `m`           Marca el panel actual (ver select-pane -m).
 * `M`           Limpia el panel marcado.
-![](/img/13.gif)
+<a href="https://victorhck.github.io/guia-tmux/img/13.gif"><img src="https://victorhck.github.io/guia-tmux/img/13.gif"></a>
 
 ### Ventanas
 * `c`           Crea una nueva ventana.
