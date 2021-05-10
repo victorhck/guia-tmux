@@ -40,6 +40,7 @@ _Ya que algunas personas prefieren cambiar esa combinación predeterminada por o
 ![](/img/12.gif)
 * `m`           Marca el panel actual (ver select-pane -m).
 * `M`           Limpia el panel marcado.
+![](/img/13.gif)
 
 ### Ventanas
 * `c`           Crea una nueva ventana.
