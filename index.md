@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+ # Guía de tmux [WIP]
+## _Una guía visual de los comandos de tmux_
+![tmux logo](/img/tmux-logo-medium.png)
 
-You can use the [editor on GitHub](https://github.com/victorhck/guia-tmux/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Atajos de teclado predeterminados en tmux
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[tmux](https://github.com/tmux/tmux/wiki) puede ser controlado desde un cliente asociado usando una combinación de teclas de unas teclas ya predeterminadas.
 
-### Markdown
+Para ejecutar los comandos de tmux, pulsa `C-b` (la tecla `Control` y la letra `b`) de manera predeterminada, seguido de algunos de estos comandos.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Ya que algunas personas prefieren cambiar esa combinación predeterminada por otra (por ejemplo `C-a` que es más cómoda) me referiré de manera genérica a esa combinación como <Prefix>._
 
-```markdown
-Syntax highlighted code block
+## Los atajos de teclado predeterminados son:
 
-# Header 1
-## Header 2
-### Header 3
+### Paneles
+* `"`           Divide el panel actual en dos, uno superior y otro inferior.
+![](/img/1.gif)
+* `%`           Divide el panel actual en dos, uno a izquierda y otro a derecha.
+![](/img/2.gif)
+* `x`           Cierra el panel actual.
+![](/img/3.gif)
+* `o`           Selecciona el panel siguiente en la ventana actual.
+![](/img/4.gif)
+* `Up, Down, Left, Right`    Cambia el foco al panel superior, inferior, de la izquierda o derecha
+![](/img/5.gif)
+* `C-Up, C-Down, C-Left, C-Right`  Redimensiona el panel actual en pasos de una celda.
+![](/img/6.gif)
+* `M-Up, M-Down, M-Left, M-Right`  Redimensiona el panel actual en pasos de cinco celdas.
+![](/img/7.gif)
+* `;`           Se mueve al panel activo previo. Para alternar entre dos paneles.
+![](/img/8.gif)
+* `{`           Intercambia el panel actual con el panel previo.
+* `}`           Intercambia el panel actual con el panel siguiente.
+* `M-o`         Rota los paneles en en la ventana actual hacia adelante.
+* `z`           Cambia el estado del zoom del panel actual.
+* `q`           Muestra el número de índice brevemente en los paneles.
+* `m`           Marca el panel actual (ver select-pane -m).
+* `M`           Limpia el panel marcado.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/victorhck/guia-tmux/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Ventanas
+* `c`           Crea una nueva ventana.
+* `n`           Cambia a la ventana siguiente.
+* `p`           Cambia a la ventana previa.
+* `0 a 9`       Selecciona la ventana especificada de la 0 a la 9.
+* `l`           Se mueve a la ventana seleccionada previa.
+* `w`           Escoge de manera interactiva la ventana actual.
+* `i`           Muestra alguna información sobre la ventana actual.
+* `.`           Pregunta un índice al que mover la ventana actual.
+* `'`           Pregunta por el índice de una ventana para seleccionarla.
+* `C-o`         Rota los paneles en la ventana actual hacia adelante.
