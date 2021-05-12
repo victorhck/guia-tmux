@@ -52,7 +52,6 @@ _Pincha sobre la imagen para ampliar_
 <a href="https://victorhck.github.io/guia-tmux/img/15.gif"><img src="https://victorhck.github.io/guia-tmux/img/15.gif"></a>
 * `0 a 9`       Selecciona la ventana especificada de la 0 a la 9.
 <a href="https://victorhck.github.io/guia-tmux/img/16.gif"><img src="https://victorhck.github.io/guia-tmux/img/16.gif"></a>
-* `l`           Se mueve a la ventana seleccionada previa. Para alternar entre dos ventanas.
 * `w`           Escoge de manera interactiva la ventana actual.
 * `i`           Muestra alguna información sobre la ventana actual.
 * `.`           Pregunta un índice al que mover la ventana actual.
