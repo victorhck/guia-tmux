@@ -34,8 +34,9 @@ _Pincha sobre la imagen para ampliar_
 * `{`           Intercambia el panel actual con el panel previo.
 * `}`           Intercambia el panel actual con el panel siguiente.
 <a href="https://victorhck.github.io/guia-tmux/img/9.gif"><img src="https://victorhck.github.io/guia-tmux/img/9.gif"></a>
-* `M-o`         Rota los paneles en en la ventana actual hacia adelante.
+* `M-o`         Rota los paneles en la ventana actual hacia adelante.
 <a href="https://victorhck.github.io/guia-tmux/img/10.gif"><img src="https://victorhck.github.io/guia-tmux/img/10.gif"></a>
+* `C-o`         Rota los paneles en la ventana actual hacia atrás.
 * `z`           Cambia el estado del zoom del panel actual.
 <a href="https://victorhck.github.io/guia-tmux/img/11.gif"><img src="https://victorhck.github.io/guia-tmux/img/11.gif"></a>
 * `q`           Muestra el número de índice brevemente en los paneles.
@@ -59,7 +60,6 @@ _Pincha sobre la imagen para ampliar_
 * `.`           Pregunta un índice al que mover la ventana actual.
 <a href="https://victorhck.github.io/guia-tmux/img/19.gif"><img src="https://victorhck.github.io/guia-tmux/img/19.gif"></a>
 * `'`           Pregunta por el índice de una ventana para seleccionarla.
-* `C-o`         Rota los paneles en la ventana actual hacia adelante.
 * `M-n`         Se mueve a la siguiente ventana con una señal o marcador de actividad.
 * `M-p`         Se mueve a la ventana previa con una señal o marcador de actividad.
 * `!`           Manda el panel actual fuera de la ventana actual.
