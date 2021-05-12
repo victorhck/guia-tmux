@@ -46,6 +46,7 @@ _Pincha sobre la imagen para ampliar_
 
 ### Ventanas
 * `c`           Crea una nueva ventana.
+<a href="https://victorhck.github.io/guia-tmux/img/14.gif"><img src="https://victorhck.github.io/guia-tmux/img/14.gif"></a>
 * `n`           Cambia a la ventana siguiente.
 * `p`           Cambia a la ventana previa.
 * `0 a 9`       Selecciona la ventana especificada de la 0 a la 9.
