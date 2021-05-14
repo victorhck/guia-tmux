@@ -61,6 +61,7 @@ _Pincha sobre la imagen para ampliar_
 * `.`           Pregunta un índice al que mover la ventana actual.
 <a href="https://victorhck.github.io/guia-tmux/img/19.gif"><img src="https://victorhck.github.io/guia-tmux/img/19.gif"></a>
 * `'`           Pregunta por el índice de una ventana para seleccionarla.
+<a href="https://victorhck.github.io/guia-tmux/img/20.gif"><img src="https://victorhck.github.io/guia-tmux/img/20.gif"></a>
 * `M-n`         Se mueve a la siguiente ventana con una señal o marcador de actividad.
 * `M-p`         Se mueve a la ventana previa con una señal o marcador de actividad.
 * `!`           Manda el panel actual fuera de la ventana actual.
