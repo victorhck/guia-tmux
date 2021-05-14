@@ -37,6 +37,7 @@ _Pincha sobre la imagen para ampliar_
 * `M-o`         Rota los paneles en la ventana actual hacia adelante.
 <a href="https://victorhck.github.io/guia-tmux/img/10.gif"><img src="https://victorhck.github.io/guia-tmux/img/10.gif"></a>
 * `C-o`         Rota los paneles en la ventana actual hacia atrás.
+<a href="https://victorhck.github.io/guia-tmux/img/10bis.gif"><img src="https://victorhck.github.io/guia-tmux/img/10bis.gif"></a>
 * `z`           Cambia el estado del zoom del panel actual.
 <a href="https://victorhck.github.io/guia-tmux/img/11.gif"><img src="https://victorhck.github.io/guia-tmux/img/11.gif"></a>
 * `q`           Muestra el número de índice brevemente en los paneles.
