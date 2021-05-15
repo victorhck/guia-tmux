@@ -70,6 +70,7 @@ _Pincha sobre la imagen para ampliar_
 * `f`           Busca un texto en las ventanas y muestra la ruta donde se encuentra.
 <a href="https://victorhck.github.io/guia-tmux/img/23.gif"><img src="https://victorhck.github.io/guia-tmux/img/23.gif"></a>
 * `&`           Cierra la ventana actual.
+<a href="https://victorhck.github.io/guia-tmux/img/24.gif"><img src="https://victorhck.github.io/guia-tmux/img/24.gif"></a>
 
 ### Miscelánea
 * `?`           Muestra un listado de todos los atajos de teclado.
