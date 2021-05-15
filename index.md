@@ -66,6 +66,7 @@ _Pincha sobre la imagen para ampliar_
 <a href="https://victorhck.github.io/guia-tmux/img/21.gif"><img src="https://victorhck.github.io/guia-tmux/img/21.gif"></a>
 * `Espacio`     Organiza la ventana actual en el siguiente diseño de paneles preconfigurado.
 * `M-1 a M-5`   Organiza los paneles en uno de los cinco diseños preconfigurados: iguales-horizontal, iguales-vertical, principal-horizontal, principal-vertical, o tiling
+<a href="https://victorhck.github.io/guia-tmux/img/22.gif"><img src="https://victorhck.github.io/guia-tmux/img/22.gif"></a>
 * `f`           Pregunta para buscar un texto en las ventanas abiertas.
 * `&`           Cierra la ventana actual.
 
