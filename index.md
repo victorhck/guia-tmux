@@ -78,6 +78,7 @@ _Pincha sobre la imagen para ampliar_
 * `t`           Muestra la hora.
 <a href="https://victorhck.github.io/guia-tmux/img/26.gif"><img src="https://victorhck.github.io/guia-tmux/img/26.gif"></a>
 * `$`           Renombra la sesión actual.
+<a href="https://victorhck.github.io/guia-tmux/img/27.gif"><img src="https://victorhck.github.io/guia-tmux/img/27.gif"></a>
 * `,`           Renombra la ventana actual.
 * `[`           Entra en el modo de copiar para copiar texto o ver el historial.
 * `]`           Pega el buffer de texto más reciente.
