@@ -76,6 +76,7 @@ _Pincha sobre la imagen para ampliar_
 * `?`           Muestra un listado de todos los atajos de teclado.
 <a href="https://victorhck.github.io/guia-tmux/img/25.gif"><img src="https://victorhck.github.io/guia-tmux/img/25.gif"></a>
 * `t`           Muestra la hora.
+<a href="https://victorhck.github.io/guia-tmux/img/26.gif"><img src="https://victorhck.github.io/guia-tmux/img/26.gif"></a>
 * `$`           Renombra la sesión actual.
 * `,`           Renombra la ventana actual.
 * `[`           Entra en el modo de copiar para copiar texto o ver el historial.
