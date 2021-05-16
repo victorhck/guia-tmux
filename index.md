@@ -74,6 +74,7 @@ _Pincha sobre la imagen para ampliar_
 
 ### Miscelánea
 * `?`           Muestra un listado de todos los atajos de teclado.
+<a href="https://victorhck.github.io/guia-tmux/img/25.gif"><img src="https://victorhck.github.io/guia-tmux/img/25.gif"></a>
 * `t`           Muestra la hora.
 * `$`           Renombra la sesión actual.
 * `,`           Renombra la ventana actual.
