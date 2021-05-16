@@ -80,6 +80,7 @@ _Pincha sobre la imagen para ampliar_
 * `$`           Renombra la sesión actual.
 <a href="https://victorhck.github.io/guia-tmux/img/27.gif"><img src="https://victorhck.github.io/guia-tmux/img/27.gif"></a>
 * `,`           Renombra la ventana actual.
+<a href="https://victorhck.github.io/guia-tmux/img/28.gif"><img src="https://victorhck.github.io/guia-tmux/img/28.gif"></a>
 * `[`           Entra en el modo de copiar para copiar texto o ver el historial.
 * `]`           Pega el buffer de texto más reciente.
 * `(`           Cambia el cliente seleccionado a la sesión previa.
