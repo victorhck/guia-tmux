@@ -8,6 +8,14 @@
 
 Para ejecutar los comandos de tmux, pulsa `C-b` (la tecla `Control` y la letra `b`) de manera predeterminada, seguido de algunos de estos comandos.
 
+En tmux existen las sesiones, las ventanas y los paneles.
+
+* Las sesiones son tareas realizadas en tmux que pueden quedar trabajando en segundo plano aunque cerremos la consola, mientras el equipo siga encendido. Podemos más tarde volver a conectarnos a esas sesiones para ver cómose están desarrollando las tareas, para finalizarlas, comenzar otras, etc.
+* Las ventanas son los espacios de trabajo de tmux. Estas ventanas asociadas a las sesiones, son donde realizaremos las tareas que deseemos en la consola. Podemos abrir muchas ventanas distintas en cada sesión.
+* Los paneles son divisiones de las ventanas. Podemos tener una vista dividida de cada ventana en múltiples paneles y en cada uno estar realizando una tarea distinta.
+
+En esta guía veremos estas tres herramientas de tmux de manera inversa, es decir, primero los paneles, después las ventanas y por último las sesiones. Más una parte anexa de miscelánea con diversos comandos.
+
 _Ya que algunas personas prefieren cambiar esa combinación predeterminada por otra (por ejemplo `C-a` que es más cómoda) me referiré de manera genérica a esa combinación como `<Prefix>`._
 
 _Pincha sobre la imagen para ampliar_
