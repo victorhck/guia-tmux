@@ -20,9 +20,8 @@ _Ya que algunas personas prefieren cambiar esa combinación predeterminada por o
 
 _Pincha sobre la imagen para ampliar_
 
-## Los atajos de teclado predeterminados son:
+## Paneles
 
-### Paneles
 * `"`           Divide el panel actual en dos, uno superior y otro inferior.
 <a href="https://victorhck.github.io/guia-tmux/img/1.gif"><img src="https://victorhck.github.io/guia-tmux/img/1.gif"></a>
 * `%`           Divide el panel actual en dos, uno a izquierda y otro a derecha.
@@ -54,12 +53,15 @@ _Pincha sobre la imagen para ampliar_
 * `M`           Limpia el panel marcado.
 <a href="https://victorhck.github.io/guia-tmux/img/13.gif"><img src="https://victorhck.github.io/guia-tmux/img/13.gif"></a>
 
-### Ventanas
+## Ventanas
+
 * `c`           Crea una nueva ventana.
 <a href="https://victorhck.github.io/guia-tmux/img/14.gif"><img src="https://victorhck.github.io/guia-tmux/img/14.gif"></a>
 * `n`           Cambia a la ventana siguiente.
 * `p`           Cambia a la ventana previa.
 <a href="https://victorhck.github.io/guia-tmux/img/15.gif"><img src="https://victorhck.github.io/guia-tmux/img/15.gif"></a>
+* `,`           Renombra la ventana actual.
+<a href="https://victorhck.github.io/guia-tmux/img/28.gif"><img src="https://victorhck.github.io/guia-tmux/img/28.gif"></a>
 * `0 a 9`       Selecciona la ventana especificada de la 0 a la 9.
 <a href="https://victorhck.github.io/guia-tmux/img/16.gif"><img src="https://victorhck.github.io/guia-tmux/img/16.gif"></a>
 * `w`           Escoge de manera interactiva la ventana actual.
@@ -80,23 +82,25 @@ _Pincha sobre la imagen para ampliar_
 * `&`           Cierra la ventana actual.
 <a href="https://victorhck.github.io/guia-tmux/img/24.gif"><img src="https://victorhck.github.io/guia-tmux/img/24.gif"></a>
 
-### Miscelánea
-* `?`           Muestra un listado de todos los atajos de teclado.
-<a href="https://victorhck.github.io/guia-tmux/img/25.gif"><img src="https://victorhck.github.io/guia-tmux/img/25.gif"></a>
-* `t`           Muestra la hora.
-<a href="https://victorhck.github.io/guia-tmux/img/26.gif"><img src="https://victorhck.github.io/guia-tmux/img/26.gif"></a>
-* `$`           Renombra la sesión actual.
-<a href="https://victorhck.github.io/guia-tmux/img/27.gif"><img src="https://victorhck.github.io/guia-tmux/img/27.gif"></a>
-* `,`           Renombra la ventana actual.
-<a href="https://victorhck.github.io/guia-tmux/img/28.gif"><img src="https://victorhck.github.io/guia-tmux/img/28.gif"></a>
-* `[`           Entra en el modo de copiar para copiar texto o ver el historial.
-* `]`           Pega el buffer de texto más reciente.
+## Sesiones
+
+* `d`           Desconecta el cliente actual.                                  
+* `s`           Selecciona una nueva sesión de manera interactiva para el cliente conectado.
 * `(`           Cambia el cliente seleccionado a la sesión previa.
 * `)`           Cambia el cliente seleccionado a la sesión siguiente.
 * `D`           Escoge un cliente para desconectarse.
 * `L`           Cambia el cliente conectado de vuelta a la última sesión.
-* `s`           Selecciona una nueva sesión de manera interactiva para el cliente conectado.
-* `d`           Desconecta el cliente actual.                                  
+* `$`           Renombra la sesión actual.
+<a href="https://victorhck.github.io/guia-tmux/img/27.gif"><img src="https://victorhck.github.io/guia-tmux/img/27.gif"></a>
+
+## Miscelánea
+
+* `?`           Muestra un listado de todos los atajos de teclado.
+<a href="https://victorhck.github.io/guia-tmux/img/25.gif"><img src="https://victorhck.github.io/guia-tmux/img/25.gif"></a>
+* `t`           Muestra la hora.
+<a href="https://victorhck.github.io/guia-tmux/img/26.gif"><img src="https://victorhck.github.io/guia-tmux/img/26.gif"></a>
+* `[`           Entra en el modo de copiar para copiar texto o ver el historial.
+* `]`           Pega el buffer de texto más reciente.
 * `~`           Muestra los mensajes previos de tmux, si hubiera alguno.
 * `#`           Lista todos los buffers pegados.
 * `-`           Elimina el buffer copiado más reciente de texto.
