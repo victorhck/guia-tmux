@@ -90,8 +90,6 @@ _Pincha sobre la imagen para ampliar_
 * `(`           Cambia el cliente seleccionado a la sesión previa.
 * `)`           Cambia el cliente seleccionado a la sesión siguiente.
 <a href="https://victorhck.github.io/guia-tmux/img/30.gif"><img src="https://victorhck.github.io/guia-tmux/img/30.gif"></a>
-* `D`           Escoge un cliente para desconectarse.
-* `L`           Cambia el cliente conectado de vuelta a la última sesión.
 * `$`           Renombra la sesión actual.
 <a href="https://victorhck.github.io/guia-tmux/img/27.gif"><img src="https://victorhck.github.io/guia-tmux/img/27.gif"></a>
 
