@@ -1,4 +1,4 @@
-# Guía de tmux [WIP]
+# Guía de tmux
 ## _Una guía visual de los comandos de tmux_
 ![tmux logo](/img/tmux-logo-medium.png)
 
