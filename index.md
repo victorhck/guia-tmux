@@ -22,92 +22,92 @@ _Pincha sobre la imagen para ampliar_
 
 ## Paneles
 
-* `"`           Divide el panel actual en dos, uno superior y otro inferior.
+* `<Prefix>` + `"`           Divide el panel actual en dos, uno superior y otro inferior.
 <a href="https://victorhck.github.io/guia-tmux/img/1.gif"><img src="https://victorhck.github.io/guia-tmux/img/1.gif"></a>
-* `%`           Divide el panel actual en dos, uno a izquierda y otro a derecha.
+* `<Prefix>` + `%`           Divide el panel actual en dos, uno a izquierda y otro a derecha.
 <a href="https://victorhck.github.io/guia-tmux/img/2.gif"><img src="https://victorhck.github.io/guia-tmux/img/2.gif"></a>
-* `x`           Cierra el panel actual.
+* `<Prefix>` + `x`           Cierra el panel actual.
 <a href="https://victorhck.github.io/guia-tmux/img/3.gif"><img src="https://victorhck.github.io/guia-tmux/img/3.gif"></a>
-* `o`           Selecciona el panel siguiente en la ventana actual.
+* `<Prefix>` + `o`           Selecciona el panel siguiente en la ventana actual.
 <a href="https://victorhck.github.io/guia-tmux/img/4.gif"><img src="https://victorhck.github.io/guia-tmux/img/4.gif"></a>
-* `Up, Down, Left, Right`    Cambia el foco al panel superior, inferior, de la izquierda o derecha
+* `<Prefix>` + `Up, Down, Left, Right`    Cambia el foco al panel superior, inferior, de la izquierda o derecha
 <a href="https://victorhck.github.io/guia-tmux/img/5.gif"><img src="https://victorhck.github.io/guia-tmux/img/5.gif"></a>
-* `C-Up, C-Down, C-Left, C-Right`  Redimensiona el panel actual en pasos de una celda.
+* `<Prefix>` + `C-Up, C-Down, C-Left, C-Right`  Redimensiona el panel actual en pasos de una celda.
 <a href="https://victorhck.github.io/guia-tmux/img/6.gif"><img src="https://victorhck.github.io/guia-tmux/img/6.gif"></a>
-* `M-Up, M-Down, M-Left, M-Right`  Redimensiona el panel actual en pasos de cinco celdas.
+* `<Prefix>` + `M-Up, M-Down, M-Left, M-Right`  Redimensiona el panel actual en pasos de cinco celdas.
 <a href="https://victorhck.github.io/guia-tmux/img/7.gif"><img src="https://victorhck.github.io/guia-tmux/img/7.gif"></a>
-* `;`           Se mueve al panel activo previo. Para alternar entre dos paneles.
+* `<Prefix>` + `;`           Se mueve al panel activo previo. Para alternar entre dos paneles.
 <a href="https://victorhck.github.io/guia-tmux/img/8.gif"><img src="https://victorhck.github.io/guia-tmux/img/8.gif"></a>
-* `{`           Intercambia el panel actual con el panel previo.
-* `}`           Intercambia el panel actual con el panel siguiente.
+* `<Prefix>` + `{`           Intercambia el panel actual con el panel previo.
+* `<Prefix>` + `}`           Intercambia el panel actual con el panel siguiente.
 <a href="https://victorhck.github.io/guia-tmux/img/9.gif"><img src="https://victorhck.github.io/guia-tmux/img/9.gif"></a>
-* `M-o`         Rota los paneles en la ventana actual hacia adelante.
+* `<Prefix>` + `M-o`         Rota los paneles en la ventana actual hacia adelante.
 <a href="https://victorhck.github.io/guia-tmux/img/10.gif"><img src="https://victorhck.github.io/guia-tmux/img/10.gif"></a>
-* `C-o`         Rota los paneles en la ventana actual hacia atrás.
+* `<Prefix>` + `C-o`         Rota los paneles en la ventana actual hacia atrás.
 <a href="https://victorhck.github.io/guia-tmux/img/10bis.gif"><img src="https://victorhck.github.io/guia-tmux/img/10bis.gif"></a>
-* `z`           Cambia el estado del zoom del panel actual.
+* `<Prefix>` + `z`           Cambia el estado del zoom del panel actual.
 <a href="https://victorhck.github.io/guia-tmux/img/11.gif"><img src="https://victorhck.github.io/guia-tmux/img/11.gif"></a>
-* `q`           Muestra el número de índice brevemente en los paneles.
+* `<Prefix>` + `q`           Muestra el número de índice brevemente en los paneles.
 <a href="https://victorhck.github.io/guia-tmux/img/12.gif"><img src="https://victorhck.github.io/guia-tmux/img/12.gif"></a>
-* `m`           Marca el panel actual (ver select-pane -m).
-* `M`           Limpia el panel marcado.
+* `<Prefix>` + `m`           Marca el panel actual (ver select-pane -m).
+* `<Prefix>` + `M`           Limpia el panel marcado.
 <a href="https://victorhck.github.io/guia-tmux/img/13.gif"><img src="https://victorhck.github.io/guia-tmux/img/13.gif"></a>
 
 ## Ventanas
 
-* `c`           Crea una nueva ventana.
+* `<Prefix>` + `c`           Crea una nueva ventana.
 <a href="https://victorhck.github.io/guia-tmux/img/14.gif"><img src="https://victorhck.github.io/guia-tmux/img/14.gif"></a>
-* `n`           Cambia a la ventana siguiente.
-* `p`           Cambia a la ventana previa.
+* `<Prefix>` + `n`           Cambia a la ventana siguiente.
+* `<Prefix>` + `p`           Cambia a la ventana previa.
 <a href="https://victorhck.github.io/guia-tmux/img/15.gif"><img src="https://victorhck.github.io/guia-tmux/img/15.gif"></a>
-* `,`           Renombra la ventana actual.
+* `<Prefix>` + `,`           Renombra la ventana actual.
 <a href="https://victorhck.github.io/guia-tmux/img/28.gif"><img src="https://victorhck.github.io/guia-tmux/img/28.gif"></a>
-* `0 a 9`       Selecciona la ventana especificada de la 0 a la 9.
+* `<Prefix>` + `0 a 9`       Selecciona la ventana especificada de la 0 a la 9.
 <a href="https://victorhck.github.io/guia-tmux/img/16.gif"><img src="https://victorhck.github.io/guia-tmux/img/16.gif"></a>
-* `w`           Escoge de manera interactiva la ventana actual.
+* `<Prefix>` + `w`           Escoge de manera interactiva la ventana actual.
 <a href="https://victorhck.github.io/guia-tmux/img/17.gif"><img src="https://victorhck.github.io/guia-tmux/img/17.gif"></a>
-* `i`           Muestra brevemente información sobre la ventana actual.
+* `<Prefix>` + `i`           Muestra brevemente información sobre la ventana actual.
 <a href="https://victorhck.github.io/guia-tmux/img/18.gif"><img src="https://victorhck.github.io/guia-tmux/img/18.gif"></a>
-* `.`           Pregunta un índice al que mover la ventana actual.
+* `<Prefix>` + `.`           Pregunta un índice al que mover la ventana actual.
 <a href="https://victorhck.github.io/guia-tmux/img/19.gif"><img src="https://victorhck.github.io/guia-tmux/img/19.gif"></a>
-* `'`           Pregunta por el índice de una ventana para seleccionarla.
+* `<Prefix>` + `'`           Pregunta por el índice de una ventana para seleccionarla.
 <a href="https://victorhck.github.io/guia-tmux/img/20.gif"><img src="https://victorhck.github.io/guia-tmux/img/20.gif"></a>
-* `!`           Manda el panel actual fuera de la ventana actual creando una nueva ventana del panel.
+* `<Prefix>` + `!`           Manda el panel actual fuera de la ventana actual creando una nueva ventana del panel.
 <a href="https://victorhck.github.io/guia-tmux/img/21.gif"><img src="https://victorhck.github.io/guia-tmux/img/21.gif"></a>
-* `Espacio`     Organiza la ventana actual en el siguiente diseño de paneles preconfigurado.
-* `M-1 a M-5`   Organiza los paneles en uno de los cinco diseños preconfigurados: iguales-horizontal, iguales-vertical, principal-horizontal, principal-vertical, o tiling
+* `<Prefix>` + `Espacio`     Organiza la ventana actual en el siguiente diseño de paneles preconfigurado.
+* `<Prefix>` + `M-1 a M-5`   Organiza los paneles en uno de los cinco diseños preconfigurados: iguales-horizontal, iguales-vertical, principal-horizontal, principal-vertical, o tiling
 <a href="https://victorhck.github.io/guia-tmux/img/22.gif"><img src="https://victorhck.github.io/guia-tmux/img/22.gif"></a>
-* `f`           Busca un texto en las ventanas y muestra la ruta donde se encuentra.
+* `<Prefix>` + `f`           Busca un texto en las ventanas y muestra la ruta donde se encuentra.
 <a href="https://victorhck.github.io/guia-tmux/img/23.gif"><img src="https://victorhck.github.io/guia-tmux/img/23.gif"></a>
-* `&`           Cierra la ventana actual.
+* `<Prefix>` + `&`           Cierra la ventana actual.
 <a href="https://victorhck.github.io/guia-tmux/img/24.gif"><img src="https://victorhck.github.io/guia-tmux/img/24.gif"></a>
 
 ## Sesiones
 
-* `d`           Desconecta el cliente actual.                                  
-* `s`           Selecciona una nueva sesión de manera interactiva para el cliente conectado.
+* `<Prefix>` + `d`           Desconecta el cliente actual.                                  
+* `<Prefix>` + `s`           Selecciona una nueva sesión de manera interactiva para el cliente conectado.
 <a href="https://victorhck.github.io/guia-tmux/img/29.gif"><img src="https://victorhck.github.io/guia-tmux/img/29.gif"></a>
-* `(`           Cambia el cliente seleccionado a la sesión previa.
-* `)`           Cambia el cliente seleccionado a la sesión siguiente.
+* `<Prefix>` + `(`           Cambia el cliente seleccionado a la sesión previa.
+* `<Prefix>` + `)`           Cambia el cliente seleccionado a la sesión siguiente.
 <a href="https://victorhck.github.io/guia-tmux/img/30.gif"><img src="https://victorhck.github.io/guia-tmux/img/30.gif"></a>
-* `$`           Renombra la sesión actual.
+* `<Prefix>` + `$`           Renombra la sesión actual.
 <a href="https://victorhck.github.io/guia-tmux/img/27.gif"><img src="https://victorhck.github.io/guia-tmux/img/27.gif"></a>
 
 ## Miscelánea
 
-* `?`           Muestra un listado de todos los atajos de teclado.
+* `<Prefix>` + `?`           Muestra un listado de todos los atajos de teclado.
 <a href="https://victorhck.github.io/guia-tmux/img/25.gif"><img src="https://victorhck.github.io/guia-tmux/img/25.gif"></a>
-* `t`           Muestra la hora.
+* `<Prefix>` + `t`           Muestra la hora.
 <a href="https://victorhck.github.io/guia-tmux/img/26.gif"><img src="https://victorhck.github.io/guia-tmux/img/26.gif"></a>
-* `[`           Entra en el modo de copiar para copiar texto o ver el historial.
-* `]`           Pega el buffer de texto más reciente.
-* `~`           Muestra los mensajes previos de tmux, si hubiera alguno.
-* `#`           Lista todos los buffers pegados.
-* `-`           Elimina el buffer copiado más reciente de texto.
-* `=`           Escoge qué buffer pegar de manera interactiva desde una lista.
-* `:`           Entra en el modo de comandos de tmux.
-* `r`           Fuerza el redibujar el cliente conectado.
-* `Page Up`     Entra en el modo de copiar y hace scroll de una página.
+* `<Prefix>` + `[`           Entra en el modo de copiar para copiar texto o ver el historial.
+* `<Prefix>` + `]`           Pega el buffer de texto más reciente.
+* `<Prefix>` + `~`           Muestra los mensajes previos de tmux, si hubiera alguno.
+* `<Prefix>` + `#`           Lista todos los buffers pegados.
+* `<Prefix>` + `-`           Elimina el buffer copiado más reciente de texto.
+* `<Prefix>` + `=`           Escoge qué buffer pegar de manera interactiva desde una lista.
+* `<Prefix>` + `:`           Entra en el modo de comandos de tmux.
+* `<Prefix>` + `r`           Fuerza el redibujar el cliente conectado.
+* `<Prefix>` + `Page Up`     Entra en el modo de copiar y hace scroll de una página.
 
 `C` Se refiere a la tecla Control. `M` Se refiere a la tecla Meta, que es la tecla Alt.
 Los atajos de teclado pueden ser cambiados con los comandos bind-key y unbind-key.
